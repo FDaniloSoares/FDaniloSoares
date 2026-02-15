@@ -1,6 +1,10 @@
 <h1>👋 &nbsp;Hey, I'm Danilo Soares, Fullstack Software Engineer </h1>
 
 <p align="center">
+Frontend-focused engineer building scalable, product-driven web applications.
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:SEUEMAIL@gmail.com"><img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
