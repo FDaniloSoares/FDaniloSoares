@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hey, I'm Danilo Soares, Fullstack Software Engineer </h1>
+<h1>💻 &nbsp;Fullstack Software Engineer</h1>
 
 <p align="center">
 Frontend-focused engineer building scalable, product-driven web applications.
@@ -76,6 +76,11 @@ Examples of what you can expect in my repositories:
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Datadog](https://img.shields.io/badge/-Datadog-333333?style=flat&logo=datadog)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
 
 ---
 
@@ -91,4 +96,7 @@ Examples of what you can expect in my repositories:
 ---
 
 If you'd like to collaborate or discuss opportunities, feel free to reach out via LinkedIn or email.
+
+🔗 LinkedIn — [linkedin.com/in/fdanilosoares](https://www.linkedin.com/in/fdanilosoares)  
+✉️ Email — fdanilosoares@gmail.com
 
